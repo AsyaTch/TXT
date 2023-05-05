@@ -1,0 +1,6 @@
+Last_name: Chaikovskaya
+Name: Anastasia
+Age: 32
+Count_of_animals: 2
+Desired_salary: 3000
+^C
