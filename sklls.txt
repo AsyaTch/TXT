@@ -1,0 +1,7 @@
+skills
+terminal
+git
+client_server
+sql
+postman
+mobile_testing

@@ -1,0 +1,6 @@
+Preferences:
+movie: [D The_Rock
+series: Friends
+food: sandwich
+season: spring
+country: Spain
