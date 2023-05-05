@@ -1,1 +1,8 @@
-
+ID 
+Title
+Step_for_represent
+expected_result
+actual_result
+environments
+severity
+priority
